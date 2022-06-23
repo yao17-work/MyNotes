@@ -1,0 +1,3 @@
+# mysql install and init
+
+#
